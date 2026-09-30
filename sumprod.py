@@ -10,6 +10,6 @@ if __name__ == "__main__":
     prod1: int = product(a,b)
     prod2: int = product(r,s)
 
-    resultado: int = prod1 + prod2
+    resultado = prod1 + prod2
 
     print("El resultado es", resultado)
