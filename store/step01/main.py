@@ -1,0 +1,13 @@
+if __name__ == "__main__":
+
+    a: int = 4
+    b: int = 5
+    r: int = 6
+    s: int = 7
+
+    prod1: int = a*b
+    prod2: int = r*s
+
+    resultado: int = prod1 + prod2
+
+    print(resultado)
