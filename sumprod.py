@@ -12,4 +12,4 @@ if __name__ == "__main__":
 
     resultado: int = sum(prod1, prod2)
 
-    print(resultado)
+    print("El resultado es", resultado)
