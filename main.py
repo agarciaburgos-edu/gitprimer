@@ -5,6 +5,9 @@ if __name__ == "__main__":
     r: int = 6
     s: int = 7
 
-    resultado: int = (a*b) + (r*s)
+    prod1: int = a*b
+    prod2: int = r*s
+
+    resultado: int = prod1 + prod2
 
     print(resultado)
